@@ -142,12 +142,3 @@ The models provided in this repository are **untrained**. If you require the tra
 
 - Iraj Masoudian
 
-
-
-## Note on Weights
-
-The models provided in this repository are **untrained**. If you require the trained weights for these models, please contact me directly.
-
-## Authors
-
-- Iraj Masoudian
