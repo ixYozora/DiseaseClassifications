@@ -78,7 +78,7 @@ class AlzheimerPredictor:
             for inputs in data_loader:
                 inputs = inputs[0]
                 outputs = self.model(inputs)
-                predicted = (outputs > 0.5).float()
+                predicted = (outputs > 0.0.5133978128433228).float()
                 y_pred.extend(predicted.numpy())
 
         return y_pred
